@@ -1,5 +1,5 @@
 # Second year Btech Student 
 # Computer Engineering 
-##Resume:
-###LinkedIn:
-###Github:
+-Resume:
+-LinkedIn:
+-Github:
