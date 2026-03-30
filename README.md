@@ -1,5 +1,6 @@
-# Second year Btech Student 
-# Computer Engineering 
+Second year Btech Student 
+logo
+ Computer Engineering 
 ###
 -Resume:
 ###
